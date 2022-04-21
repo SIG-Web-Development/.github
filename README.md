@@ -1,1 +1,3 @@
-# .github
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=25&multiline=true&width=600&height=35&lines=Hi%2C+Welcome+to+SIG+for+Web+Development+%F0%9F%8E%89)](https://git.io/typing-svg)
+It seems like you've found this repository! Well, **congratulations 😄** This is where we house all of code for Web Development related items, and sometimes you'll see crossover between other SIG's because I am a product focused person. Any sort of software development that brings value will need the expertise of other fields, such as AI, Data Vis, etc. Hence, I will be working closely with them to bring you workshops that will produce value for your future self. 
+
